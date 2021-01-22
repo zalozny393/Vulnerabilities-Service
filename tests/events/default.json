@@ -1,0 +1,15 @@
+{
+    "headers": {
+        "User-Agent": "PostmanRuntime/7.26.8"
+    },
+    "httpMethod": "GET",
+    "path": "/197.227.236.56/vulnerabilities",
+    "pathParameters": {
+        "host": "197.227.236.56"
+    },
+    "queryStringParameters": null,
+    "requestContext": {
+        "domainName": "offlineContext_domainName"
+    },
+    "resource": "/local/{host}/vulnerabilities"
+}
